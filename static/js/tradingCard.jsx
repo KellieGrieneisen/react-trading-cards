@@ -61,6 +61,7 @@ ReactDOM.render(
   document.querySelector('#merge')
 );
 
+
 ReactDOM.render(
   (
     <TradingCard
